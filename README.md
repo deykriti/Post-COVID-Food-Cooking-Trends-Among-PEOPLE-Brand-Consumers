@@ -8,7 +8,7 @@ As a market researcher, I analyzed the dataset to uncover behavioral shifts and 
 
 ---
 
-### 🎯 Objective
+### Objective
 - Understand changes in **cooking frequency and motivation** post-COVID  
 - Assess **skill growth, experimentation**, and **information-seeking** behaviors  
 - Explore **engagement** with PEOPLE’s food content  
@@ -16,7 +16,7 @@ As a market researcher, I analyzed the dataset to uncover behavioral shifts and 
 
 ---
 
-### 🧩 Methodology
+### Methodology
 
 **1. Data Review**
 - Source: 2020 PEOPLE Food Trends Study (survey tables & open-ended responses)
@@ -24,9 +24,12 @@ As a market researcher, I analyzed the dataset to uncover behavioral shifts and 
 - Key variables: Cooking frequency, skill improvement, experimentation, content engagement
 
 **2. Data Preparation**
-- Extracted data tables from PDF to Excel
-- Structured responses by demographics (Age, Parent Status, etc.)
-- Created calculated fields (% cooking daily, % skill improvement, etc.)
+- Data was provided in **Excel format**, already structured into tables for each question  
+- Cleaned and reformatted data for consistency across demographic variables (Age, Parent Status, Ethnicity, Relationship to PEOPLE)  
+- Created additional computed metrics:
+  - % cooking more or less since COVID  
+  - % reporting improved skills or new techniques  
+  - % engaging with PEOPLE food content  
 
 **3. Tools Used**
 | Tool | Purpose |
@@ -38,34 +41,34 @@ As a market researcher, I analyzed the dataset to uncover behavioral shifts and 
 
 ---
 
-### 📊 Key Findings
+### Key Findings
 
-#### 🍽️ 1. Home Cooking Became a Daily Routine
+#### 1. Home Cooking Became a Daily Routine
 - **65%** cook daily; **96%** cook weekly or more  
 - **54%** cook *more often* than before the pandemic  
-➡️ *Cooking became a daily ritual and source of comfort.*
+*Cooking became a daily ritual and source of comfort.*
 
-#### 🧑‍🍳 2. Growing Skills & Experimentation
+#### 2. Growing Skills & Experimentation
 - **38%** said their cooking skills improved  
 - **39%** became more adventurous  
 - Tried new activities: homemade pizza (16%), meal prep (15%), bread baking (11%)  
-➡️ *Consumers explored creativity and self-reliance in the kitchen.*
+*Consumers explored creativity and self-reliance in the kitchen.*
 
-#### 🛒 3. Practical Knowledge & Safety
+#### 3. Practical Knowledge & Safety
 - **58%** sought information about food safety, storage, and substitutions  
-➡️ *“Kitchen confidence” became a key consumer need.*
+*“Kitchen confidence” became a key consumer need.*
 
 #### 🧘‍♀️ 4. Emotional Connection to Cooking
 - Open-ended responses reveal themes of *comfort*, *family bonding*, and *mindfulness*  
-➡️ *Food became a way to manage stress and connect emotionally.*
+*Food became a way to manage stress and connect emotionally.*
 
 #### 📰 5. PEOPLE Brand’s Strong Food Credibility
 - **84%** enjoy PEOPLE’s food content  
 - **77%** appreciate its authentic, real-life tone  
 - **50%** have tried a food brand or product after seeing it in PEOPLE  
-➡️ *PEOPLE’s relatable storytelling drives real influence.*
+*PEOPLE’s relatable storytelling drives real influence.*
 
-#### 📚 6. Preferred Content Types
+#### 6. Preferred Content Types
 | Type of Content | % Interested |
 |------------------|--------------|
 | Everyday meal recipes | **86%** |
@@ -74,11 +77,11 @@ As a market researcher, I analyzed the dataset to uncover behavioral shifts and 
 | Menu planning | **65%** |
 | Dietary-specific meals | **56%** |
 | Viewing party themes | **53%** |
-➡️ *Practical, real-life cooking inspiration resonates most.*
+*Practical, real-life cooking inspiration resonates most.*
 
 ---
 
-### 💡 Strategic Insights for PEOPLE Brand
+### Strategic Insights for PEOPLE Brand
 
 | Theme | Consumer Insight | Brand Opportunity |
 |--------|------------------|------------------|
@@ -103,7 +106,7 @@ As a market researcher, I analyzed the dataset to uncover behavioral shifts and 
 
 ---
 
-### 🧰 Project Files
+### Project Files
 
 | File | Description |
 |------|--------------|
@@ -114,14 +117,14 @@ As a market researcher, I analyzed the dataset to uncover behavioral shifts and 
 
 ---
 
-### 🚀 Outcomes
+### Outcomes
 - Identified **five key behavioral shifts** among PEOPLE consumers  
 - Delivered **data-driven brand recommendations**  
 - Demonstrated end-to-end research capability: quantitative, qualitative, and strategic  
 
 ---
 
-### 🧠 Skills Showcased
+### Skills Showcased
 - Market Research & Consumer Insights  
 - Data Cleaning & Analysis (Excel / Tableau)  
 - Qualitative Theme Extraction (Open-end coding)  
@@ -130,22 +133,10 @@ As a market researcher, I analyzed the dataset to uncover behavioral shifts and 
 
 ---
 
-### 🪄 Repository Info
-**Repository Name:** `people-food-trends-analysis`  
-**Short Description:**  
-> Consumer insights analysis using PEOPLE brand survey data to explore post-COVID food and cooking behavior changes.  
-
 **Tags:** `market-research` · `consumer-insights` · `data-storytelling` · `excel-analysis` · `tableau` · `portfolio-project`  
 
 ---
 
-### 📌 Next Steps
-- [ ] Add sample visuals (.png or .jpg)  
-- [ ] Upload PowerPoint deck  
-- [ ] (Optional) Build an interactive Tableau dashboard  
-- [ ] Publish project link on LinkedIn or your portfolio website  
-
----
 
 **👩‍💼 Author:** *Kriti Dey*  
 *Market Research & Consumer Insights Enthusiast*  
