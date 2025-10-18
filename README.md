@@ -1,6 +1,6 @@
-# 🍳 Post-COVID Food & Cooking Trends Among PEOPLE Brand Consumers
+# Post-COVID Food & Cooking Trends Among PEOPLE Brand Consumers
 
-### 🧭 Project Overview
+### Project Overview
 This project explores how consumer cooking habits, motivations, and attitudes evolved during and after the COVID-19 pandemic — using real data from the **2020 PEOPLE Food Trends Study**.
 
 The study surveyed **935 PEOPLE brand consumers** who regularly cook and shop for groceries.  
@@ -37,7 +37,7 @@ As a market researcher, I analyzed the dataset to uncover behavioral shifts and 
 | Excel | Data cleaning, pivot tables, analysis |
 | PowerPoint | Visualization and storytelling |
 | Word Cloud Generator / ChatGPT | Thematic coding for open-ended responses |
-| Tableau / Power BI *(optional)* | Interactive dashboards |
+| Power BI | Interactive dashboards |
 
 ---
 
@@ -58,7 +58,7 @@ As a market researcher, I analyzed the dataset to uncover behavioral shifts and 
 - **58%** sought information about food safety, storage, and substitutions  
 *“Kitchen confidence” became a key consumer need.*
 
-#### 🧘‍♀️ 4. Emotional Connection to Cooking
+#### 4. Emotional Connection to Cooking
 - Open-ended responses reveal themes of *comfort*, *family bonding*, and *mindfulness*  
 *Food became a way to manage stress and connect emotionally.*
 
@@ -93,8 +93,7 @@ As a market researcher, I analyzed the dataset to uncover behavioral shifts and 
 
 ---
 
-### 📈 Visuals
-*(Add charts or screenshots here once generated)*
+### Visuals
 
 | Visual | Description |
 |---------|-------------|
@@ -138,9 +137,9 @@ As a market researcher, I analyzed the dataset to uncover behavioral shifts and 
 ---
 
 
-**👩‍💼 Author:** *Kriti Dey*  
+**Author:** *Kriti Dey*  
 *Market Research & Consumer Insights Enthusiast*  
-📫 [LinkedIn](#) · [GitHub](#)
+[LinkedIn](https://www.linkedin.com/in/kritidey/) · [GitHub](https://deykriti.github.io/)
 
 ---
 
