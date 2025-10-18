@@ -36,7 +36,7 @@ As a market researcher, I analyzed the dataset to uncover behavioral shifts and 
 |------|----------|
 | Excel | Data cleaning, pivot tables, analysis |
 | PowerPoint | Visualization and storytelling |
-| Word Cloud Generator / ChatGPT | Thematic coding for open-ended responses |
+| Word Cloud Generator | Thematic coding for open-ended responses |
 | Power BI | Interactive dashboards |
 
 ---
@@ -99,7 +99,8 @@ As a market researcher, I analyzed the dataset to uncover behavioral shifts and 
 |---------|-------------|
 | ![chart1](visuals/cooking_frequency.png) | Cooking frequency before vs. after COVID |
 | ![chart2](visuals/skill_growth.png) | Cooking skill improvement |
-| ![chart3](visuals/wordcloud.png) | Word cloud of open-ended responses |
+| ![chart3](<img width="702" height="310" alt="PEOPLE's wordcloud" src="https://github.com/user-attachments/assets/7b33ad57-9cdc-4095-903a-61950e96d977" />
+) | Word cloud of open-ended responses |
 | ![chart4](visuals/content_interest.png) | Interest in PEOPLE food content |
 | ![chart5](visuals/insight_summary.png) | 5 Key Consumer Shifts infographic |
 
