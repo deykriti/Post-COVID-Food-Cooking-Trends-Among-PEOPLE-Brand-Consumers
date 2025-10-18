@@ -99,7 +99,7 @@ As a market researcher, I analyzed the dataset to uncover behavioral shifts and 
 |---------|-------------|
 | ![chart1](visuals/cooking_frequency.png) | Cooking frequency before vs. after COVID |
 | ![chart2](visuals/skill_growth.png) | Cooking skill improvement |
-| ![chart3](<img width="702" height="310" alt="PEOPLE's wordcloud" src="https://github.com/user-attachments/assets/7b33ad57-9cdc-4095-903a-61950e96d977" />
+| ![chart3](<img width="702" height="310" alt="PEOPLE's wordcloud" src="https://github.com/user-attachments/assets/7b33ad57-9cdc-4095-903a-61950e96d977" >
 ) | Word cloud of open-ended responses |
 | ![chart4](visuals/content_interest.png) | Interest in PEOPLE food content |
 | ![chart5](visuals/insight_summary.png) | 5 Key Consumer Shifts infographic |
@@ -112,7 +112,6 @@ As a market researcher, I analyzed the dataset to uncover behavioral shifts and 
 |------|--------------|
 | `people_food_trends.xlsx` | Cleaned and structured dataset |
 | `people_food_trends_deck.pptx` | Insight presentation slides |
-| `open_ends_coding.xlsx` | Thematic coding of qualitative responses |
 | `visuals/` | Folder containing exported charts and figures |
 
 ---
