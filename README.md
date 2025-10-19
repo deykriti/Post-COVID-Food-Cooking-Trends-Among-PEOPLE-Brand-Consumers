@@ -105,7 +105,7 @@ As a market researcher, I analyzed the dataset to uncover behavioral shifts and 
 ![Insight Summary](Insight.png)
 
 #### 4. Word Cloud of Open-Ended Responses
-![Word Cloud](PEOPLE's wordcloud.png)
+![Word Cloud](wordcloud.png)
 
 ---
 
