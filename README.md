@@ -1,7 +1,7 @@
 # Post-COVID Food & Cooking Trends Among PEOPLE Brand Consumers
 
 ### Project Overview
-This project explores how consumer cooking habits, motivations, and attitudes evolved during and after the COVID-19 pandemic — using real data from the **2020 PEOPLE Food Trends Study**.
+This project explores how consumer cooking habits, motivations, and attitudes evolved during and after the COVID-19 pandemic, using real data from the **2020 PEOPLE Food Trends Study**.
 
 The study surveyed **935 PEOPLE brand consumers** who regularly cook and shop for groceries.  
 As a market researcher, I analyzed the dataset to uncover behavioral shifts and provide insights into how PEOPLE can better serve its audience through food content.
@@ -9,7 +9,7 @@ As a market researcher, I analyzed the dataset to uncover behavioral shifts and 
 ---
 
 ### Objective
-- Understand changes in **cooking frequency and motivation** post-COVID  
+- Understand changes in **cooking frequency and motivation** post-COVID 
 - Assess **skill growth, experimentation**, and **information-seeking** behaviors  
 - Explore **engagement** with PEOPLE’s food content  
 - Translate findings into **brand and content strategy recommendations**
@@ -62,7 +62,7 @@ As a market researcher, I analyzed the dataset to uncover behavioral shifts and 
 - Open-ended responses reveal themes of *comfort*, *family bonding*, and *mindfulness*  
 *Food became a way to manage stress and connect emotionally.*
 
-#### 📰 5. PEOPLE Brand’s Strong Food Credibility
+#### 5. PEOPLE Brand’s Strong Food Credibility
 - **84%** enjoy PEOPLE’s food content  
 - **77%** appreciate its authentic, real-life tone  
 - **50%** have tried a food brand or product after seeing it in PEOPLE  
@@ -95,24 +95,27 @@ As a market researcher, I analyzed the dataset to uncover behavioral shifts and 
 
 ### Visuals
 
-| Visual | Description |
-|---------|-------------|
-| ![chart1](visuals/cooking_frequency.png) | Cooking frequency before vs. after COVID |
-| ![chart2](visuals/skill_growth.png) | Cooking skill improvement |
-| ![chart3](<img width="702" height="310" alt="PEOPLE's wordcloud" src="https://github.com/user-attachments/assets/7b33ad57-9cdc-4095-903a-61950e96d977" >
-) | Word cloud of open-ended responses |
-| ![chart4](visuals/content_interest.png) | Interest in PEOPLE food content |
-| ![chart5](visuals/insight_summary.png) | 5 Key Consumer Shifts infographic |
+#### 1. Cooking & Skill Trends
+![Skill Growth](skill_growth.png)
+
+#### 2. Snacking Behaviour Insights
+![Snacking Behaviour](snacking_behaviour.png)
+
+#### 3. PEOPLE Food Content Impact
+![Insight Summary](Insight.png)
+
+#### 4. Word Cloud of Open-Ended Responses
+![Word Cloud](PEOPLE's wordcloud.png)
 
 ---
 
-### Project Files
+### Sample Open-Ended Responses
+*Selected anonymized responses to demonstrate thematic coding.*
 
-| File | Description |
-|------|--------------|
-| `people_food_trends.xlsx` | Cleaned and structured dataset |
-| `people_food_trends_deck.pptx` | Insight presentation slides |
-| `visuals/` | Folder containing exported charts and figures |
+You can download the sample Excel file here:  
+[`sample_open_ends.xlsx`](sample_open_ends.xlsx)
+
+> PS: This file contains only a small, anonymized subset of responses due to confidentiality.
 
 ---
 
