@@ -135,13 +135,13 @@ You can download the sample Excel file here:
 
 ---
 
-**Tags:** `market-research` · `consumer-insights` · `data-storytelling` · `excel-analysis` · `tableau` · `portfolio-project`  
+**Tags:**  `consumer-insights` · `data-storytelling` · `excel-analysis` · `tableau` · `portfolio-project`  
 
 ---
 
 
 **Author:** *Kriti Dey*  
-*Market Research & Consumer Insights Enthusiast*  
+*Analyst*  
 [LinkedIn](https://www.linkedin.com/in/kritidey/) · [GitHub](https://deykriti.github.io/)
 
 ---
